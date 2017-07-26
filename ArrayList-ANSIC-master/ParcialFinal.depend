@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1499812832 source:c:\users\agustín\desktop\repofinal-master\molde vacio\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1499812832 c:\users\agustín\desktop\repofinal-master\molde vacio\arraylist.h
+
+1501014044 source:c:\users\agustín\desktop\repofinal-master\molde vacio\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"lib.h"
+
+1501013982 c:\users\agustín\desktop\repofinal-master\molde vacio\lib.h
+
+1499812832 source:c:\users\agustín\desktop\repofinal-master\molde vacio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"lib.h"
+
+1499812832 source:c:\users\agustín\desktop\molde vacio\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1499812832 c:\users\agustín\desktop\molde vacio\arraylist.h
+
+1501026431 source:c:\users\agustín\desktop\molde vacio\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"lib.h"
+
+1501019725 c:\users\agustín\desktop\molde vacio\lib.h
+
+1501021830 source:c:\users\agustín\desktop\molde vacio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"lib.h"
+
+1501069890 source:d:\arraylist-ansic-master\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1501069890 d:\arraylist-ansic-master\arraylist.h
+
+1501073380 source:d:\arraylist-ansic-master\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"lib.h"
+
+1501072688 d:\arraylist-ansic-master\lib.h
+
+1501073209 source:d:\arraylist-ansic-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"lib.h"
+
